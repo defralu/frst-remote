@@ -1,0 +1,2 @@
+NOTES_ALL:
+- aggiunta un nota 2
