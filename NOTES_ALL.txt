@@ -1,2 +1,3 @@
 NOTES_ALL:
-- aggiunta un nota 2
+- aggiunta un nota 2 bis
+- aggiunta una nota 3
